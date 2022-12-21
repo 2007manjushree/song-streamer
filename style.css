@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+#song-name{
+    font-size: 15px;
+    padding: 6px;
+}
+
+canvas{
+    border: solid;
+    border-radius: 10px;
+    border-color: antiquewhite;
+    border-width: 2px;
+    margin-top: 130px;
+}
